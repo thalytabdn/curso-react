@@ -41,7 +41,7 @@ class HelloWorld extends React.Component {
 }
 ```
 
-## Props e PropTypes
+## Props
 
 Um componente pode receber parâmetros, chamados *props*, e retorna uma hierarquia de elementos para exibir através do método *render*.
 
